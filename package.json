@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "puppeteer": "^20.8.2"
+  },
+  "name": "kuisioner-sia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
